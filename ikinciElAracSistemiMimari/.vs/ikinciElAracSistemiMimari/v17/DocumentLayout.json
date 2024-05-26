@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|c:\\users\\berka\\source\\repos\\ikincielaracsistemimimari\\ikincielaracsistemimimari\\concrete\\yoneticipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\concrete\\yoneticipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\concrete\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\concrete\\yorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\concrete\\vitrin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\concrete\\vitrin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\concrete\\sistemyoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\concrete\\sistemyoneticisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\abstracts\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\abstracts\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\concrete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\concrete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\concrete\\oracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\concrete\\oracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\concrete\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\concrete\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\concrete\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\concrete\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\interfaces\\iilanfiltrele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\interfaces\\iilanfiltrele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\concrete\\aracsahibi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\concrete\\aracsahibi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\interfaces\\iyorumyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\interfaces\\iyorumyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikincielaracsistemimimari\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577FBF6-B50D-4124-9E3F-B7B8FD0C7C24}|ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari.csproj|solutionrelative:ikincielaracsistemimimari\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YoneticiPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\YoneticiPaneli.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Concrete\\YoneticiPaneli.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\YoneticiPaneli.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Concrete\\YoneticiPaneli.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:19:39.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Abstracts\\Kisi.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Abstracts\\Kisi.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Abstracts\\Kisi.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Abstracts\\Kisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:21:07.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vitrin.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Vitrin.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Concrete\\Vitrin.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Vitrin.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Concrete\\Vitrin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:17:58.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemYoneticisi.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\SistemYoneticisi.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Concrete\\SistemYoneticisi.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\SistemYoneticisi.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Concrete\\SistemYoneticisi.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:17:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Program.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Concrete\\Program.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Program.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Concrete\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:17:56.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IIlanFiltrele.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Interfaces\\IIlanFiltrele.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Interfaces\\IIlanFiltrele.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Interfaces\\IIlanFiltrele.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Interfaces\\IIlanFiltrele.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:14:55.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Musteri.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Concrete\\Musteri.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Musteri.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Concrete\\Musteri.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:09:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yorum.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Yorum.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Concrete\\Yorum.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Yorum.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Concrete\\Yorum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:33:56.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AracSahibi.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\AracSahibi.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Concrete\\AracSahibi.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\AracSahibi.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Concrete\\AracSahibi.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:09:01.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IYorumYap.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Interfaces\\IYorumYap.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Interfaces\\IYorumYap.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Interfaces\\IYorumYap.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Interfaces\\IYorumYap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:24:40.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Oracle.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Oracle.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Concrete\\Oracle.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\Oracle.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Concrete\\Oracle.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:13:03.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MySQL.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\MySQL.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Concrete\\MySQL.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Concrete\\MySQL.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Concrete\\MySQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:12:58.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Enum\\Enum.cs",
+              "RelativeDocumentMoniker": "ikinciElAracSistemiMimari\\Enum\\Enum.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\ikinciElAracSistemiMimari\\ikinciElAracSistemiMimari\\Enum\\Enum.cs",
+              "RelativeToolTip": "ikinciElAracSistemiMimari\\Enum\\Enum.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:05:13.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

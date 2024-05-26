@@ -1,0 +1,14 @@
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\bin\Debug\net8.0\ikinciElAracSistemiMimari.exe
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\bin\Debug\net8.0\ikinciElAracSistemiMimari.deps.json
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\bin\Debug\net8.0\ikinciElAracSistemiMimari.runtimeconfig.json
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\bin\Debug\net8.0\ikinciElAracSistemiMimari.dll
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\bin\Debug\net8.0\ikinciElAracSistemiMimari.pdb
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\obj\Debug\net8.0\ikinciElAracSistemiMimari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\obj\Debug\net8.0\ikinciElAracSistemiMimari.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\obj\Debug\net8.0\ikinciElAracSistemiMimari.AssemblyInfo.cs
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\obj\Debug\net8.0\ikinciElAracSistemiMimari.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\obj\Debug\net8.0\ikinciElAracSistemiMimari.dll
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\obj\Debug\net8.0\refint\ikinciElAracSistemiMimari.dll
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\obj\Debug\net8.0\ikinciElAracSistemiMimari.pdb
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\obj\Debug\net8.0\ikinciElAracSistemiMimari.genruntimeconfig.cache
+C:\Users\berka\source\repos\ikinciElAracSistemiMimari\ikinciElAracSistemiMimari\obj\Debug\net8.0\ref\ikinciElAracSistemiMimari.dll
